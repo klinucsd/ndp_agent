@@ -37,24 +37,38 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # -----------------------------------------------------------------------------
-# Step 1: Install DeepAgents CLI
+# Step 1: Install Jupyter Packages (pinned to match NRP JupyterHub versions)
+# -----------------------------------------------------------------------------
+RUN pip install --no-cache-dir \
+    "jupyterlab>=4.2,<5" \
+    "jupyterhub>=5,<6" \
+    "notebook>=7,<8" \
+    "jupyter-server>=2,<3" \
+    "jupyterlab-server>=2,<3" \
+    "ipykernel>=6,<7" \
+    "ipywidgets>=8,<9" \
+    "jupyter-console>=6,<7" \
+    "nbconvert>=7,<8"
+
+# -----------------------------------------------------------------------------
+# Step 2: Install DeepAgents CLI
 # -----------------------------------------------------------------------------
 # [openai] extra provides langchain-openai (ChatOpenAI) for NRP's GLM endpoint
 RUN pip install --no-cache-dir "deepagents-cli[openai]"
 
 # -----------------------------------------------------------------------------
-# Step 2: Copy Assets
+# Step 3: Copy Assets
 # -----------------------------------------------------------------------------
 COPY deepndp_skills /tmp/build/skills
 COPY apply_ndp_patch.py /tmp/build/
 
 # -----------------------------------------------------------------------------
-# Step 3: Apply DeepNDP Patches to config.py
+# Step 4: Apply DeepNDP Patches to config.py
 # -----------------------------------------------------------------------------
 RUN python /tmp/build/apply_ndp_patch.py
 
 # -----------------------------------------------------------------------------
-# Step 4: Install Skills and Config for jovyan
+# Step 5: Install Skills and Config for jovyan
 # -----------------------------------------------------------------------------
 RUN mkdir -p /home/jovyan/.deepagents/agent/skills && \
     cp -r /tmp/build/skills/* /home/jovyan/.deepagents/agent/skills/
@@ -86,7 +100,7 @@ RUN chown -R jovyan:users /home/jovyan/.deepagents && \
     rm -rf /tmp/build
 
 # -----------------------------------------------------------------------------
-# Step 5: Switch to JupyterHub User
+# Step 6: Switch to JupyterHub User
 # -----------------------------------------------------------------------------
 USER jovyan
 WORKDIR /home/jovyan/work
