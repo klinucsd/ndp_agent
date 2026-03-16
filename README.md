@@ -1,6 +1,6 @@
-# DeepNDP
+# NDP Agent
 
-DeepNDP is an AI agent for the [National Data Platform (NDP)](https://nationaldataplatform.org). It wraps [`deepagents-cli`](https://pypi.org/project/deepagents-cli/) with NDP-specific skills that enable the agent to search the NDP dataset catalog, retrieve geospatial data, fetch earthquake events, and interact with NDP JupyterHub workspaces.
+NDP Agent is an AI agent for the [National Data Platform (NDP)](https://nationaldataplatform.org). It wraps [`deepagents-cli`](https://pypi.org/project/deepagents-cli/) with NDP-specific skills that enable the agent to search the NDP dataset catalog, retrieve geospatial data, fetch earthquake events, and interact with NDP JupyterHub workspaces.
 
 ## Features
 
