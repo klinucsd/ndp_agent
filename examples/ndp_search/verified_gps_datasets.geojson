@@ -1,0 +1,653 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VTOR.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T23:59:58Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.19319056,
+          33.22501652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VTOR.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.19319056,
+          33.22501652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SONG.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T11:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.56026579,
+          33.38075111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SONG.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.56026579,
+          33.38075111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PALG.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.03178469,
+          33.38901836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PALG.CI.LY_.30",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.03178469,
+          33.38901836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PALG.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.03178469,
+          33.38901836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OCSD.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.34673938,
+          33.24066861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OCSD.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.34673938,
+          33.24066861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DLUZ.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.30722484,
+          33.43058871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P483.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.569331,
+          33.05916505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P485.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.40904415,
+          33.21021306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P487.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.18307721,
+          33.21353234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P487.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T11:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.18307721,
+          33.21353234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P483.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.569331,
+          33.05916505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P473.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.94952101,
+          32.73377805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P472.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.10470083,
+          32.88921098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P475.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24394071,
+          32.66639773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P474.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24869726,
+          33.3551944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P066.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.16979315,
+          32.61652647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P066.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T11:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.16979315,
+          32.61652647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DLUZ.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.30722484,
+          33.43058871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CLBD.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.31098066,
+          33.13538743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P486.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.32229119,
+          33.26019185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P486.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.32229119,
+          33.26019185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P485.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.40904415,
+          33.21021306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P480.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.34854084,
+          32.97599762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P480.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T23:59:58Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.34854084,
+          32.97599762
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P482.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.67141797,
+          33.24018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P482.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T11:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.67141797,
+          33.24018
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P475.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T23:59:58Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24394071,
+          32.66639773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P478.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.07159589,
+          33.23571593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P478.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.07159589,
+          33.23571593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P473.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -116.94952101,
+          32.73377805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P474.CI.LY_.20",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24869726,
+          33.3551944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P472.PW.LY_.00",
+        "id": null,
+        "notes": "The EarthScope Consortium streams three-dimensional GNSS high rate (1 Hz) position time series from nearly a thousand GNSS stations to study earthquakes, volcanoes, tsunamis, hydrologic loads, and glaciers. The data is made available via the National Data Platform pilot project.",
+        "temporal_start": "2024-12-03T00:00:00Z",
+        "temporal_end": "2024-12-12T17:59:59Z",
+        "resources": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -117.10470083,
+          32.88921098
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
