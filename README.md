@@ -34,7 +34,7 @@ source .venv/bin/activate && deepndp
 
 Pull the pre-built image:
 ```
-kaiucsd/deepndp:v1.2
+kaiucsd/deepndp:v1.3
 ```
 
 `NRP_API_KEY` is injected at runtime via JupyterHub environment variable settings or a `.env` file in the working directory.
@@ -79,7 +79,9 @@ ndp_agent/
 │   └── ndp-workspaces/
 └── examples/
     ├── ndp_search/          # Spatiotemporal dataset discovery tasks
-    └── web_log_analysis/    # NDP Nginx log analysis
+    ├── web_log_analysis/    # NDP Nginx log analysis
+    ├── ndp_workspace/       # NDP JupyterHub workspace API interactions
+    └── wcs_clip/            # WCS data clipping to county boundary
 ```
 
 ## Examples
@@ -96,6 +98,16 @@ Tasks demonstrating spatiotemporal dataset discovery, event-based search, and da
 ### Web Log Analysis
 
 Analysis of NDP Nginx access logs — unique users, dataset access counts, search activity. See [`examples/web_log_analysis/README.md`](examples/web_log_analysis/README.md).
+
+### NDP Workspace
+
+Interacting with NDP JupyterHub workspaces via the workspace API — listing data challenges, downloading sprint data, and solving notebook tasks. See [`examples/ndp_workspace/README.md`](examples/ndp_workspace/README.md).
+
+### WCS Clip
+
+Discovering WFS and WCS layers from a CKAN catalog, then clipping WCS annual burn probability raster data to San Diego County boundary and visualizing the result. See [`examples/wcs_clip/README.md`](examples/wcs_clip/README.md).
+
+- [`clip_burn_probability.ipynb`](examples/wcs_clip/clip_burn_probability.ipynb) — clips WCS burn probability to San Diego County and produces side-by-side maps in EPSG:3310 and EPSG:4269
 
 ## Docker Build
 
